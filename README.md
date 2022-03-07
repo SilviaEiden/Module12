@@ -8,7 +8,7 @@ The purpose of this analysis is to help Roza, a biological researcher, complete 
 
 With this, if **Improbable Beef** identifies a species as a candidate to manufacture synthetic beef, Roza's volunteers will be able to identify whether that species is found in their navel.
 
-Site: https://silviaeiden.github.io/Module12/
+Website: https://silviaeiden.github.io/Module12/
 
 ### Software and Web-Based Application
 
